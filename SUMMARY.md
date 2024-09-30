@@ -1,3 +1,15 @@
 # Table of contents
 
-* [soneium-domains-docs](README.md)
+* [Overview](README.md)
+* [Soneium Domains JS](soneium-domains-js/README.md)
+  * [Get Name](soneium-domains-js/get-name.md)
+  * [Get Address](soneium-domains-js/get-address.md)
+  * [Get Names For Address](soneium-domains-js/get-names-for-address.md)
+  * [Get Subgraph Records](soneium-domains-js/get-subgraph-records.md)
+  * [Get Records](soneium-domains-js/get-records.md)
+  * [Get Profile](soneium-domains-js/get-profile.md)
+  * [Example Sandbox](soneium-domains-js/example-sandbox.md)
+* [Smart Contracts](smart-contracts/README.md)
+  * [Deployments](smart-contracts/deployments.md)
+* [Resources](resources.md)
+* [Social Links](social-links.md)
