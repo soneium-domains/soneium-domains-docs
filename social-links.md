@@ -1,5 +1,7 @@
 # Social Links
 
-[https://x.com/soneium\_domains](https://x.com/soneium\_domains)
+{% embed url="https://x.com/soneium_domains" %}
 
-[https://medium.com/@soneiumdomains](https://medium.com/@soneiumdomains)
+{% embed url="https://medium.com/@soneiumdomains" %}
+
+{% embed url="https://youtube.com/@soneiumdomains" %}

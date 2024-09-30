@@ -11,5 +11,6 @@
   * [Example Sandbox](soneium-domains-js/example-sandbox.md)
 * [Smart Contracts](smart-contracts/README.md)
   * [Deployments](smart-contracts/deployments.md)
+* [Guides](guides.md)
 * [Resources](resources.md)
 * [Social Links](social-links.md)
