@@ -2,6 +2,7 @@
 
 * [Overview](README.md)
 * [Soneium Domains JS](soneium-domains-js/README.md)
+  * [Installation](soneium-domains-js/installation.md)
   * [Get Name](soneium-domains-js/get-name.md)
   * [Get Address](soneium-domains-js/get-address.md)
   * [Get Names For Address](soneium-domains-js/get-names-for-address.md)
